@@ -1,0 +1,12 @@
+site_name: Conklin.io
+site_url: https://conklin.io
+nav:
+    - About: index.md
+    - Blog:
+        - 2020:
+            - SSM Bastion: blog/2020/ssm-bastion.md
+theme:
+    name: material
+    features:
+        - navigation.instant
+        - navigation.top
