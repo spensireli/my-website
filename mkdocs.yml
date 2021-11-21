@@ -1,6 +1,6 @@
 site_name: Conklin.io
 site_url: https://conklin.io
-repo_url: https://github.com/spensireli/my-website.git
+repo_url: https://github.com/spensireli/my-website
 nav:
     - About: index.md
     - Blog:
