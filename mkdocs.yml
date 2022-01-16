@@ -8,6 +8,8 @@ nav:
             - SSM Bastion: blog/2020/ssm-bastion.md
         - 2021:
             - Static S3 Mkdocs Website: blog/2021/mkdocs-static-website.md
+        - 2022:
+            - GitOps with Flux2 and AWS CodeCommit: blog/2022/flux2-and-aws-code-commit.md
 theme:
     name: material
     features:
