@@ -27,6 +27,7 @@ To perform the steps mentioned in this blog the following assumptions are made.
 - You have access to AWS Code Commit.
 - You have a Kubernetes cluster. 
 - Your AWS CLI Profile is configured with the account. 
+- Flux CLI has been installed [here](https://fluxcd.io/docs/installation/)
 
 
 ## Creating CodeCommit Git Project
